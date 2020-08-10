@@ -1,14 +1,17 @@
 ## First Project React - Rocketseat GoStack  - More Concepts of the React.js:
+<blockquote align="center">“Always evolving and learning more every day!”</blockquote><br/>
 
-<h2 align="center"> 
-  First Project React - Rocketseat GoStack 
-</h2>
+<h3 align="left"> 
+  Github Explorer - GoStack RocketSeat - Dashboard Page 
+</h3>
 
 <p align="center">
   <img src="src/assets/dashboard-page.png" alt="Github Explorer - GoStack RocketSeat - Dashboard Page" width="1280">
 </p>
 
-<blockquote align="center">“Always evolving and learning more every day!”</blockquote>
+<h3 align="left"> 
+  Github Explorer - GoStack RocketSeat - Repository Page 
+</h3>
 
 <p align="center">
   <img src="src/assets/repository-page.png" alt="Github Explorer - GoStack RocketSeat - Repository Page" width="1280">
