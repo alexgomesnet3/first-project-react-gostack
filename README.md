@@ -1,5 +1,4 @@
 ## First Project React - Rocketseat GoStack  - More Concepts of the React.js:
-<blockquote align="center">“Always evolving and learning more every day!”</blockquote><br/>
 
 <h3 align="left"> 
   Github Explorer - GoStack RocketSeat - Dashboard Page 
@@ -16,6 +15,8 @@
 <p align="center">
   <img src="src/assets/repository-page.png" alt="Github Explorer - GoStack RocketSeat - Repository Page" width="1280">
 </p>
+
+<blockquote align="center">“Always evolving and learning more every day!”</blockquote><br/>
 
 Below is the link to the Skylab course platform, where this project is part of the GoStack Rocketseat.
 https://skylab.rocketseat.com.br/
